@@ -2,7 +2,6 @@
 CP1404/CP5632 Practical
 Car class
 """
-
 from car import Car  # 这里假设你有car.py同目录
 
 class Taxi(Car):
